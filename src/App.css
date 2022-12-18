@@ -1,0 +1,49 @@
+.App {
+  margin: 20px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+.form {
+  width: 250px;
+  height: 200px;
+  margin: auto;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 5px 12px;
+  margin: 3px 0;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 5px 12px;
+  margin: 5px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  color: chocolate;
+  border: 1px solid chocolate;
+  background-color: white;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+table {
+  margin: 20px 10px;
+  border-collapse: collapse;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  border: rgb(77, 77, 161);
+}
+
+thead {
+  color: chocolate;
+  font-size: 20px;
+}
